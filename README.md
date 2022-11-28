@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tirthorajbadhei" target="blank"><img src="https://img.shields.io/twitter/follow/tirthorajbadhei?logo=twitter&style=for-the-badge" alt="tirthorajbadhei" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN Stack**
+- 🌱 I’m currently learning **MEARN STACK**
 
 - 👨‍💻 All of my projects are available at [https://tirthorajbadhei.github.io/](https://tirthorajbadhei.github.io/)
 
 - 📝 I regularly write articles on [https://twitter.com/TirthorajBadhei](https://twitter.com/TirthorajBadhei)
 
-- 💬 Ask me about **react,redux**
+- 💬 Ask me about **ReactJS,Redux,mongoDB,ExpressJS,NodeJS,WEB-3.0**
 
 - 📫 How to reach me **tirthoraj29@gmail.com**
 
@@ -25,9 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="." height="30" width="40" /></a>
-<a href="https://twitter.com/tirthorajbadhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirthorajbadhei" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tirthorajbadhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirthorajbadhei" height="30" width="40" /></a>
+<a href="https://twitter.com/tirthorajbadhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirthorajbadhei" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20625068/tirthoraj-badhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20625068/tirthoraj-badhei" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/tirthoraj29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tirthoraj29" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/tirthorajbadhei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tirthorajbadhei/" height="30" width="40" /></a>
