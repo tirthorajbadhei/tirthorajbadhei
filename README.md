@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/183276367/original/b9b2c99e016dc8318c4742e3d0d5f0b0356d9511/work-on-web-development-projects-on-mern-stack.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Tirthoraj Badhei</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://shafaqkhan.co.uk/wp-content/uploads/2022/09/91382-web-development.gif">
