@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirthoraj Badhei</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthorajbadhei&label=Profile%20views&color=0e75b6&style=flat" alt="tirthorajbadhei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthorajbadhei" alt="tirthorajbadhei" /></a> </p>
