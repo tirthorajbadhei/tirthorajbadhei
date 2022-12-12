@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tirthoraj Badhei</h1>
-<h3 align="center">A passionate full-Stack developer from India</h3>
+<h3 align="center"> An aspiring full-stack web developer specializing in MERN stack, Passionate about coding and learning new technologies, like WEB-3.0, Blockchain, and DeFi. Looking forward to working for a company and scaling it to new heights.</h3>
  <br />
     
 <img align="right" alt="Coding" width="600" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
