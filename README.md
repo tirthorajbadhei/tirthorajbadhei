@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/tirthorajbadhei" target="blank"><img src="https://img.shields.io/twitter/follow/tirthorajbadhei?logo=twitter&style=for-the-badge" alt="tirthorajbadhei" /></a> </p>
  <br />
     <br />
-- 🌱 I’m currently learning **MEARN STACK**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://tirthorajbadhei.github.io/](https://tirthorajbadhei.github.io/)
 
