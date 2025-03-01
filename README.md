@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/TirthorajBadhei](https://twitter.com/TirthorajBadhei)
 
-- 💬 Ask me about **ReactJS,Redux,mongoDB,ExpressJS,NodeJS,WEB-3.0**
+- 💬 Ask me about **ReactJS,Redux,mongoDB,ExpressJS,NodeJS,WEB-3.0 , AI**
 
 - 📫 How to reach me **tirthoraj29@gmail.com**
 
