@@ -14,7 +14,7 @@
     <br />
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://tirthorajbadhei.github.io/](https://tirthorajbadhei.github.io/)
+- 👨‍💻 All of my projects are available at [https://asktirtho.netlify.app/](https://asktirtho.netlify.app/)
 
 - 📝 I regularly write articles on [https://twitter.com/TirthorajBadhei](https://twitter.com/TirthorajBadhei)
 
