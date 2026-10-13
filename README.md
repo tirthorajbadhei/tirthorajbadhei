@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tirthoraj Badhei</h1>
-<h3 align="center">Founder & Full-Stack Engineer · Building AI Products & Web3 Infrastructure</h3>
+<h3 align="center">Forward Deployed Engineer · Founder · Solving Real Business Problems with AI & Web3</h3>
 
 <p align="center">
   <a href="https://tirthorajbadhei.online"><img src="https://img.shields.io/badge/AI%20Startup-tirthorajbadhei.online-6C47FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Startup" /></a>
+  <a href="https://dispatchy.ai/"><img src="https://img.shields.io/badge/AI%20Ticketing-Dispatchy.ai-00A67E?style=for-the-badge&logo=robotframework&logoColor=white" alt="Dispatchy.ai" /></a>
   <a href="https://wallet.tappfinance.net/"><img src="https://img.shields.io/badge/Web3%20Wallet-Tapp%20Finance-F7931A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Tapp Finance Wallet" /></a>
   <a href="mailto:tirthoraj29@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-tirthoraj29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -15,19 +16,29 @@
 
 ## 🚀 About Me
 
-I'm a full-stack engineer with **4+ years of experience** shipping production software — and now a **founder** building my own AI startup.
+I'm a **Forward Deployed Engineer** with **4+ years of experience**. I work directly with clients, understand their business problems, and ship the engineering that solves them, from the first call to production.
 
-- 🧠 **Founder of [tirthorajbadhei.online](https://tirthorajbadhei.online)** — an AI startup building practical AI products for businesses
+- 🎯 **Forward Deployed Engineer:** I own the whole client relationship myself, covering discovery, scoping, architecture, delivery, and ongoing support
+- 🧠 **Founder of [tirthorajbadhei.online](https://tirthorajbadhei.online):** an AI startup that turns business problems into working AI products
+- 🎫 **Built [Dispatchy.ai](https://dispatchy.ai/)**, an AI-powered ticketing platform for a client in Canada 🇨🇦
 - 🔗 **Delivered multiple Web3 products for clients**, including crypto wallets and blockchain-powered business platforms
-- 💼 Live client work: **[Tapp Finance Wallet](https://wallet.tappfinance.net/)**
-- ⚙️ End-to-end ownership: product design → MERN/TypeScript build → AWS / VPS deployment → scaling
-- 💬 Ask me about **AI agents & LLM apps, Web3 wallets & smart contracts, React, Node.js, MongoDB, cloud deployment**
+
+### 💼 Client Work
+
+| Project | What it is | Client |
+|---|---|---|
+| 🎫 **[Dispatchy.ai](https://dispatchy.ai/)** | AI-powered ticketing platform | Canada 🇨🇦 |
+| 🔗 **[Tapp Finance Wallet](https://wallet.tappfinance.net/)** | Web3 crypto wallet | Tapp Finance |
+- ⚙️ End-to-end ownership: problem → solution design → MERN/TypeScript build → AWS / VPS deployment → scaling
+- 💬 Ask me about **AI agents & LLM apps, Web3 wallets & smart contracts, client delivery, React, Node.js, cloud deployment**
 
 ---
 
 ## 🤝 Work With Me
 
-I partner with founders and businesses to turn ideas into shipped products.
+I embed with founders and businesses as your engineer on the ground. I learn how your business runs, find where tech can move the needle, and deliver solutions that actually get used.
+
+**How I work:** 🔍 Understand the problem → 🧩 Design the solution → 🛠️ Build & deploy → 📈 Iterate with your team
 
 | What I build | Examples |
 |---|---|
@@ -121,4 +132,4 @@ I partner with founders and businesses to turn ideas into shipped products.
   <a href="https://www.hackerrank.com/tirthoraj29"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
 
-<p align="center"><b>⚡ Open to AI & Web3 projects, partnerships, and startup collaborations.</b></p>
+<p align="center"><b>⚡ Open to client engagements, AI & Web3 projects, and startup partnerships. Bring me a business problem.</b></p>
