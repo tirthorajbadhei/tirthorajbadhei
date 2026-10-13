@@ -5,6 +5,7 @@
   <a href="https://tirthorajbadhei.online"><img src="https://img.shields.io/badge/AI%20Startup-tirthorajbadhei.online-6C47FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Startup" /></a>
   <a href="https://dispatchy.ai/"><img src="https://img.shields.io/badge/AI%20Ticketing-Dispatchy.ai-00A67E?style=for-the-badge&logo=robotframework&logoColor=white" alt="Dispatchy.ai" /></a>
   <a href="https://wallet.tappfinance.net/"><img src="https://img.shields.io/badge/Web3%20Wallet-Tapp%20Finance-F7931A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Tapp Finance Wallet" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.kyptronix.tappfinance&hl=en"><img src="https://img.shields.io/badge/Android%20App-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tapp Finance on Google Play" /></a>
   <a href="mailto:tirthoraj29@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-tirthoraj29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -28,8 +29,9 @@ I'm a **Forward Deployed Engineer** with **4+ years of experience**. I work dire
 | Project | What it is | Client |
 |---|---|---|
 | 🎫 **[Dispatchy.ai](https://dispatchy.ai/)** | AI-powered ticketing platform | Canada 🇨🇦 |
-| 🔗 **[Tapp Finance Wallet](https://wallet.tappfinance.net/)** | Web3 crypto wallet | Tapp Finance |
-- ⚙️ End-to-end ownership: problem → solution design → MERN/TypeScript build → AWS / VPS deployment → scaling
+| 🔗 **Tapp Finance Wallet** | Web3 crypto wallet: [Web App](https://wallet.tappfinance.net/) · [Android App (Play Store)](https://play.google.com/store/apps/details?id=com.kyptronix.tappfinance&hl=en) | Tapp Finance |
+- 📱 **Cross-platform builder:** web apps (MERN / Next.js), **mobile apps for iOS + Android with React Native**, and **desktop apps with Electron.js**
+- ⚙️ End-to-end ownership: problem → solution design → build → AWS / VPS deployment → app store release → scaling
 - 💬 Ask me about **AI agents & LLM apps, Web3 wallets & smart contracts, client delivery, React, Node.js, cloud deployment**
 
 ---
@@ -45,6 +47,8 @@ I embed with founders and businesses as your engineer on the ground. I learn how
 | 🤖 **AI Products** | LLM-powered apps, AI agents, chatbots, workflow automation, RAG systems |
 | 🔗 **Web3 Solutions** | Crypto wallets, dApps, token & smart-contract integrations, Web3 business platforms |
 | 🌐 **Full-Stack SaaS** | MERN / Next.js web apps, dashboards, APIs, payments |
+| 📱 **Mobile Apps** | Cross-platform iOS + Android apps with React Native, published to App Store & Play Store |
+| 🖥️ **Desktop Apps** | Windows, macOS & Linux apps with Electron.js |
 | ☁️ **Deployment & DevOps** | AWS, VPS, CI/CD, Docker, production hardening |
 
 📩 **Have a project or partnership in mind?** Reach out at **[tirthoraj29@gmail.com](mailto:tirthoraj29@gmail.com)** or visit **[tirthorajbadhei.online](https://tirthorajbadhei.online)** — let's build something together.
@@ -67,6 +71,14 @@ I embed with founders and businesses as your engineer on the ground. I learn how
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Mobile & Desktop**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 </p>
 
 **Backend & Databases**
