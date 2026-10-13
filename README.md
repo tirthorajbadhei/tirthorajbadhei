@@ -1,50 +1,124 @@
 <h1 align="center">Hi 👋, I'm Tirthoraj Badhei</h1>
-<h3 align="center"> An aspiring full-stack web developer specializing in MERN stack, Passionate about coding and  new technologies, like WEB-3.0, and Ai </h3>
- <br />
-    
-<img align="center" alt="Coding" width="600" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
- <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthorajbadhei&label=Profile%20views&color=0e75b6&style=flat" alt="tirthorajbadhei" /> </p>
- <br />
-  <br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthorajbadhei" alt="tirthorajbadhei" /></a> </p>
+<h3 align="center">Founder & Full-Stack Engineer · Building AI Products & Web3 Infrastructure</h3>
 
-<p align="left"> <a href="https://twitter.com/tirthorajbadhei" target="blank"><img src="https://img.shields.io/twitter/follow/tirthorajbadhei?logo=twitter&style=for-the-badge" alt="tirthorajbadhei" /></a> </p>
- <br />
-    <br />
-- 🌱 I’m currently learning **Blockchain**
-
-- 👨‍💻 All of my projects are available at [https://asktirtho.netlify.app/](https://asktirtho.netlify.app/)
-
-- 📝 I regularly write articles on [https://twitter.com/TirthorajBadhei](https://twitter.com/TirthorajBadhei)
-
-- 💬 Ask me about **ReactJS,Redux,mongoDB,ExpressJS,NodeJS,WEB-3.0 , AI**
-
-- 📫 How to reach me **tirthoraj29@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DrXBGYLuvRhDFTgDk4WDsnxiLbnLjsja/view?usp=share_link](https://drive.google.com/file/d/1DrXBGYLuvRhDFTgDk4WDsnxiLbnLjsja/view?usp=share_link)
-
- <br />
-   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tirthorajbadhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirthorajbadhei" height="30" width="40" /></a>
-<a href="https://twitter.com/tirthorajbadhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirthorajbadhei" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20625068/tirthoraj-badhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20625068/tirthoraj-badhei" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tirthoraj29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tirthoraj29" height="30" width="40" /></a>
-<a href="https://leetcode.com/tirthorajbadhei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tirthorajbadhei/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://tirthorajbadhei.online"><img src="https://img.shields.io/badge/AI%20Startup-tirthorajbadhei.online-6C47FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Startup" /></a>
+  <a href="https://wallet.tappfinance.net/"><img src="https://img.shields.io/badge/Web3%20Wallet-Tapp%20Finance-F7931A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Tapp Finance Wallet" /></a>
+  <a href="mailto:tirthoraj29@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-tirthoraj29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
- <br />
-    
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
- <br />
-   
-<br><br>
- <br />
-   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirthorajbadhei&show_icons=true&locale=en&layout=compact" alt="tirthorajbadhei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirthorajbadhei&show_icons=true&locale=en" alt="tirthorajbadhei" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tirthorajbadhei&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirthorajbadhei&" alt="tirthorajbadhei" /></p>
+---
+
+## 🚀 About Me
+
+I'm a full-stack engineer with **4+ years of experience** shipping production software — and now a **founder** building my own AI startup.
+
+- 🧠 **Founder of [tirthorajbadhei.online](https://tirthorajbadhei.online)** — an AI startup building practical AI products for businesses
+- 🔗 **Delivered multiple Web3 products for clients**, including crypto wallets and blockchain-powered business platforms
+- 💼 Live client work: **[Tapp Finance Wallet](https://wallet.tappfinance.net/)**
+- ⚙️ End-to-end ownership: product design → MERN/TypeScript build → AWS / VPS deployment → scaling
+- 💬 Ask me about **AI agents & LLM apps, Web3 wallets & smart contracts, React, Node.js, MongoDB, cloud deployment**
+
+---
+
+## 🤝 Work With Me
+
+I partner with founders and businesses to turn ideas into shipped products.
+
+| What I build | Examples |
+|---|---|
+| 🤖 **AI Products** | LLM-powered apps, AI agents, chatbots, workflow automation, RAG systems |
+| 🔗 **Web3 Solutions** | Crypto wallets, dApps, token & smart-contract integrations, Web3 business platforms |
+| 🌐 **Full-Stack SaaS** | MERN / Next.js web apps, dashboards, APIs, payments |
+| ☁️ **Deployment & DevOps** | AWS, VPS, CI/CD, Docker, production hardening |
+
+📩 **Have a project or partnership in mind?** Reach out at **[tirthoraj29@gmail.com](mailto:tirthoraj29@gmail.com)** or visit **[tirthorajbadhei.online](https://tirthorajbadhei.online)** — let's build something together.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**AI**
+<p>
+  <img src="https://img.shields.io/badge/LLM_Apps-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=probot&logoColor=white" />
+</p>
+
+**Web3**
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
+</p>
+
+**Cloud, DevOps & Testing**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tirthorajbadhei&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirthorajbadhei&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tirthorajbadhei&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthorajbadhei&no-frame=true&margin-w=8" alt="trophies" /></a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://tirthorajbadhei.online"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tirthorajbadhei"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/tirthorajbadhei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/20625068/tirthoraj-badhei"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://leetcode.com/tirthorajbadhei/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/tirthoraj29"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+</p>
+
+<p align="center"><b>⚡ Open to AI & Web3 projects, partnerships, and startup collaborations.</b></p>
