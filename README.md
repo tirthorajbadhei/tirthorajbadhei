@@ -23,6 +23,9 @@ I'm a **Forward Deployed Engineer** with **4+ years of experience**. I work dire
 - 🧠 **Founder of [tirthorajbadhei.online](https://tirthorajbadhei.online):** an AI startup that turns business problems into working AI products
 - 🎫 **Built [Dispatchy.ai](https://dispatchy.ai/)**, an AI-powered ticketing platform for a client in Canada 🇨🇦
 - 🔗 **Delivered multiple Web3 products for clients**, including crypto wallets and blockchain-powered business platforms
+- 📱 **Cross-platform builder:** web apps (MERN / Next.js), **mobile apps for iOS + Android with React Native**, and **desktop apps with Electron.js**
+- ⚙️ End-to-end ownership: problem → solution design → build → AWS / VPS deployment → app store release → scaling
+- 💬 Ask me about **AI agents & LLM apps, Web3 wallets & smart contracts, client delivery, React, Node.js, cloud deployment**
 
 ### 💼 Client Work
 
@@ -30,9 +33,6 @@ I'm a **Forward Deployed Engineer** with **4+ years of experience**. I work dire
 |---|---|---|
 | 🎫 **[Dispatchy.ai](https://dispatchy.ai/)** | AI-powered ticketing platform | Canada 🇨🇦 |
 | 🔗 **Tapp Finance Wallet** | Web3 crypto wallet: [Web App](https://wallet.tappfinance.net/) · [Android App (Play Store)](https://play.google.com/store/apps/details?id=com.kyptronix.tappfinance&hl=en) | Tapp Finance |
-- 📱 **Cross-platform builder:** web apps (MERN / Next.js), **mobile apps for iOS + Android with React Native**, and **desktop apps with Electron.js**
-- ⚙️ End-to-end ownership: problem → solution design → build → AWS / VPS deployment → app store release → scaling
-- 💬 Ask me about **AI agents & LLM apps, Web3 wallets & smart contracts, client delivery, React, Node.js, cloud deployment**
 
 ---
 
@@ -112,23 +112,6 @@ I embed with founders and businesses as your engineer on the ground. I learn how
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tirthorajbadhei&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirthorajbadhei&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tirthorajbadhei&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthorajbadhei&no-frame=true&margin-w=8" alt="trophies" /></a>
 </p>
 
 ---
